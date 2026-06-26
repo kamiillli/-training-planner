@@ -1,0 +1,11 @@
+# Перейдите в папку с вашим проектом
+cd training-planner
+
+# Подключите удалённый репозиторий
+git remote add origin https://github.com/kamili1111/training-planner.git
+
+# Переименуйте ветку (если нужно)
+git branch -M main
+
+# Отправьте код на GitHub
+git push -u origin main
